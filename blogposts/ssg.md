@@ -1,5 +1,5 @@
 ---
-title: 'Static Side Generation'
+title: 'Static Generation'
 date: '2023-07-23'
 ---
 CSR - High JS bundles leading to higher FCP, LCP, TTI

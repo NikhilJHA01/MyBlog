@@ -15,7 +15,7 @@ The idea behind progressive hydration is to provide a great performance by activ
 4.  Does not block user input on chunks that are already hydrated.
 5.  Allows usage of some sort of loading indicator for chunks with deferred hydration.
 
-**[React concurrent mode](https://reactjs.org/docs/concurrent-mode-patterns.html) *TODO***
+**[React concurrent mode](https://reactjs.org/docs/concurrent-mode-patterns.html)**
 
 **PROS**:
 
